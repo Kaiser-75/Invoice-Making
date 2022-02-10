@@ -1,0 +1,13 @@
+Product_id,Type,Quantity,Price
+1,Shirt-A1,20,1800
+2,Pant-grey,10,2000
+3,Saree blue,6,1200
+4,Saree Green polka dot,4,1300
+5,Shirt printed,10,1700
+6,Dress Kurta,19,1200
+7,Dress female Kid 10+,15,800
+8,Dress male kid 10+,15,900
+9,Dress female Kid 5+,12,650
+10,Dress male kid 5+,13,750
+11,Kameez,18,2000
+12,Scarf,3,230

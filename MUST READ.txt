@@ -1,0 +1,4 @@
+Make your own invoice file by puttion data.
+If you enter data, you will get a file "invoice.txt" where you will see the bill.
+All you have to do is before running program, from cpp(invoice function), change the name "invoice.txt" 
+to "invoice_1.txt" and "invoice_2.txt" for two different bill.
